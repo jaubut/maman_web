@@ -1,0 +1,43 @@
+{
+    "notification1":{
+        "message": "Je vais être en vacance du 7 au 28 juin",
+        "dotcolor": "div class='circle-dot yellow'",
+        "statue": "true"
+        
+    },
+    "notification2":{
+        "message": "Allez lire mon dernier article de blog",
+        "dotcolor": "div class='circle-dot blue'",
+        "statue": "true"
+    }
+    ,
+    "notification3":{
+        "message": "Joyeux noël !",
+        "dotcolor": "div class='circle-dot blue'",
+        "statue": "false"
+    }
+    ,
+    "notification4":{
+        "message": "Allez lire mon dernier article de blog",
+        "dotcolor": "div class='circle-dot blue'",
+        "statue": "false"
+    }
+    ,
+    "notification5":{
+        "message": "Allez lire mon dernier article de blog",
+        "dotcolor": "div class='circle-dot blue'",
+        "statue": "false"
+    }
+    ,
+    "notification6":{
+        "message": "Allez lire mon dernier article de blog",
+        "dotcolor": "div class='circle-dot blue'",
+        "statue": "false"
+    }
+    ,
+    "notification7":{
+        "message": "Allez lire mon dernier article de blog",
+        "dotcolor": "div class='circle-dot blue'",
+        "statue": "false"
+    }
+}
